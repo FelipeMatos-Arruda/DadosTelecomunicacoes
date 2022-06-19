@@ -34,6 +34,7 @@ from estrategia3 import *
 pd.set_option('display.max_columns',100)
 ```
 
+# Carregando os dados
 
 
 
